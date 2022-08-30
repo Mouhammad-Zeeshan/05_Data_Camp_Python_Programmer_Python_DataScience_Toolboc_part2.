@@ -1,0 +1,21 @@
+05 - Python Tool box part -02:
+Key_Words:
+
+Chapter#01:
+1.  iter()
+2.  next()
+3. *iter()
+4. range()
+5. enumerate()
+6. zip()
+7. zip(*)
+8.zip and enumerates with loops
+9. for chunk in pandas.read_csv("file", chunksize = 1000):
+print(chunk)
+
+Chapter#02:
+1. List comprehension
+2. Dictionary comprehension
+3. Yield
+4.  for, if, else in List Comprehension.
+
